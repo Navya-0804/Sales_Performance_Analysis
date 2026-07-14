@@ -1,0 +1,59 @@
+============================================================
+        SALES PERFORMANCE ANALYSIS SYSTEM
+============================================================
+Dataset Created Successfully
+
+Dataset Shape : (500, 5)
+
+         Date     Product     Category  Quantity  Sales
+0  2026-04-03  Headphones  Accessories         4   8000
+1  2026-03-13  Headphones  Accessories         3   6000
+2  2026-04-13     Monitor  Electronics         5  75000
+3  2026-03-16      Mobile  Electronics         3  75000
+4  2026-04-10    Keyboard  Accessories         5   7500
+
+
+Data Cleaned Successfully
+
+Total Sales : ₹36,790,500
+Total Quantity : 1992
+
+Top Selling Products
+Product
+Laptop        18480000
+Mobile         6525000
+Tablet         4380000
+Monitor        3750000
+Printer        2690000
+Headphones      508000
+Keyboard        363000
+Mouse            94500
+Name: Sales, dtype: int64
+
+Category Wise Sales
+Category
+Accessories      965500
+Electronics    35825000
+Name: Sales, dtype: int64
+
+Monthly Sales
+Month
+April       5083500
+February    7081000
+January     6104000
+June        6257000
+March       5224000
+May         7041000
+Name: Sales, dtype: int64
+
+
+
+
+Report Generated Successfully
+sales_data.csv saved
+bar_chart.png saved
+line_chart.png saved
+pie_chart.png saved
+report.txt saved
+
+PROJECT COMPLETED SUCCESSFULLY
